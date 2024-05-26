@@ -7,5 +7,5 @@ This repository serves as a showcase of my journey through the fascinating world
 From data preprocessing and feature engineering to model training and evaluation, this portfolio represents my continuous learning and application of ML concepts. 🚀
 
 
-LinkedIn: [https://www.linkedin.com/in/danieltar18/]
+LinkedIn: LinkedIn: [[Your LinkedIn Profile URL](https://www.linkedin.com/in/danieltar18/)]  
 
